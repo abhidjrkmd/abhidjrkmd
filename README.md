@@ -1,18 +1,57 @@
-# 💫 About Me:
-HI There ! How are you?
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<h3 align="center">Aspiring Data Analyst |Data Management Analyst| PowerBI & SQL Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-623b171ba/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhidjrkmd&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhidjrkmd&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidjrkmd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhidjrkmd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 About Me
+
+I'm a dedicated and detail-oriented **Data Analyst** passionate about using data to uncover patterns and drive smart decision-making. I specialize in **Power BI**, **SQL**, and **Advanced Excel**, and enjoy building reports and dashboards that make data easy to understand.
+
+---
+
+## 🛠️ Tools & Skills
+
+- **Power BI:** Dashboards, KPIs, DAX, Power Query  
+- **SQL (MySQL, MS SQL Server):** Joins, Aggregation, Ranking, Filtering  
+- **Advanced Excel:** Pivot Tables, VLOOKUP, Conditional Formatting, Data Validation  
+- **Python (Basics):** Data handling with Pandas, Matplotlib  
+- **Business Intelligence:** Descriptive Analysis, Visualization, Reporting  
+- **Soft Skills:** Problem-solving, Analytical Thinking, Communication  
+
+---
+
+## 🏅 Certifications & Achievements
+
+- ✅ **Data Analyst Certification – Udemy**  
+- ⭐ **4-Star Rating in SQL – HackerRank**  
+- 🧠 Strong foundation in data quality and reporting best practices  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology – Information Technology**  
+🎓 Indraprastha Engineering College (AKTU), 2018–2022  
+
+**PCM – Ralli International School**, Indirapuram  
+
+---
+
+## 📬 Contact Me
+
+- 📧 [Abhishek22000@gmail.com](mailto:Abhishek22000@gmail.com)  
+- 📱 +91-8527533138  
+- 🌐 [My Portfolio](https://abhidjrkmd.github.io/portfolio-using-react/)  
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile) *(Add your LinkedIn URL)*  
+
+---
+
+📊 *Open to exciting opportunities where I can learn, grow, and solve real business problems with data.*
+
