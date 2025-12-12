@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Aspiring Data Analyst |Data Management Analyst| PowerBI & SQL Enthusiast</h3>
+<h3 align="center">Sales Data Analyst |Data Management Analyst| PowerBI & SQL </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white"/>
